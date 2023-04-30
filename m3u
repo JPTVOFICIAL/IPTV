@@ -1,0 +1,83 @@
+# IPTV
+#EXM3U
+
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSKjsJpTNIy0LT6uaBlGSdr14OQkcjHw_CLw&usqp=CAU" group-title="CANAIS ABERTOS",GLOBO SP
+https://list.iptvcat.com/my_list/s/45968c8dd672f02ab0ba51c6725f44b7.m3u8
+
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSKjsJpTNIy0LT6uaBlGSdr14OQkcjHw_CLw&usqp=CAU" group-title="CANAIS ABERTOS",GLOBO BR
+content://media/external/downloads/57
+
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS ABERTOS",SBT
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS ABERTOS",RECORD
+https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS ABERTOS",BAND
+https://evpp.mm.uol.com.br/geob_band/app/playlist.m3u8
+
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS ABERTOS",REDE TV
+https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/playlist.m3u8
+
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS ABERTOS",TV GAZETA
+https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8
+
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS ABERTOS",REDE BRASIL
+https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS ABERTOS",TV FUTURA
+https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS ABERTOS",TV BRASIL
+https://5c483b9d1019c.streamlock.net/8022/8022/playlist.m3u8
+
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS ABERTOS",TV CULTURA
+https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS ABERTOS",TV CAMARA
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+
+
+=====≈================================================
+
+
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS AGRONEGÓCIOS",TERRA VIVA
+http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
+
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS AGRONEGÓCIOS",AGRO+
+https://evpp.mm.uol.com.br/geob_band/agromais/playlist.m3u8
+
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS AGRONEGÓCIOS",CANAL RURAL
+https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS AGRONEGÓCIOS",AGRO BRASIL TV
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+
+
+=====≈=================================================
+
+
+
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS INFANTIS",GOSPEL CARTOON 
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS INFANTIS",CARTOONITO
+https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
+
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS INFANTIS", CARTOON NETWORK
+https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist.m3u8
+
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS INFANTIS", NICK JUNIOR
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS INFANTIS",ANIME TV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS INFANTIS", RETRO CARTOON
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
+
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS INFANTIS", KIDS
+https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS INFANTIS",XTREME TV
+https://stmv1.srvif.com/xtremetv/xtremetv/playlist.m3u8

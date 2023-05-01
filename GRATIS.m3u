@@ -1,83 +1,187 @@
-# IPTV
-#EXM3U
+#EXTM3U
 
 #EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSKjsJpTNIy0LT6uaBlGSdr14OQkcjHw_CLw&usqp=CAU" group-title="CANAIS ABERTOS",GLOBO SP
 https://list.iptvcat.com/my_list/s/45968c8dd672f02ab0ba51c6725f44b7.m3u8
 
-#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSKjsJpTNIy0LT6uaBlGSdr14OQkcjHw_CLw&usqp=CAU" group-title="CANAIS ABERTOS",GLOBO BR
-content://media/external/downloads/57
-
 #EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS ABERTOS",SBT
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 
-#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS ABERTOS",RECORD
-https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/index_720_av-p.m3u8
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9q3oUpPn8MQK17XDiGrFecNfkcsL3uqYuQFgpil73eztKvoONGoGX5mbWnITr2lTUn54Ij69CPdPa2rhxsJYHr3dEyIXInzwzieqWdNY2RNI_f5Dw68GYtsNpANQeLqVFAe4ifnElEVQ8tXyKKCfzAX2rXe9r7kJZK7Hq9sqsTO_a1iyM_Ha9z0R9/s200/RECORD%20TV.jpg" group-title="CANAIS ABERTOS",RECORD
+https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS ABERTOS",BAND
-https://evpp.mm.uol.com.br/geob_band/app/playlist.m3u8
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcSF0FO5WTdDrr2t29bBXe0S41U5-6_xmhr1QZiXbrpja9aq0uWFDNtIFDf2_xUUp4GxkiewAvmxPcMBAFHytCaQWS5y3oS8aO4TJXfMaCLr9Is_3aDD35MQ3sBkOEEYpUafWR4finJIv_42ynUKzZ_8tomheBudKyqLBebv6bkVFqf1Gpuo8F3cpw/s200/TV%20BAND.jpg" group-title="CANAIS ABERTOS",BAND RBA
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w222731547.m3u8
 
-#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS ABERTOS",REDE TV
-https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/playlist.m3u8
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgap2GUFGwVw-g74fMdMrTPkUc_8N0RT7J0Q7ERhxeT5qS2lDP3e0SJgp0gZ4yNrSNu4gBWAyiOnxw1F9UPU0r38VR_MK6En2LSNnU3yVZf89VFwr1gM_6RCrs8dM3CgtsgHSgowaalUFdEld4Hk1tCaA2dJliylsh2aZKEYZnTN-uNPjh2rt7YEo4b/s200/REDE%20TV!.jpg" group-title="CANAIS ABERTOS",REDE TV ES
+https://redetves1.brasilstream.com.br/hls/redetves1/index.m3u8
 
-#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS ABERTOS",TV GAZETA
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqsVIfT8VIiunAAI_hBzUP88O1ZlK_4NSAiZhVeqofn5BhhgTtHUqqby1R47Rfzr-R4qUD9Jv_YtdZ704lK3lTHliV1XFmCRTd-Cs4ZHZADmSyTz1qWb1-o8PxwWFxrLP9gDg2ypE4V9H6Nw8UywG3O2OM12PxzCREUw0pocG1QDKm1y-1-gqwKDFx/s200/TV%20GAZETA.webp" group-title="CANAIS ABERTOS",TV GAZETAhttps://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqsVIfT8VIiunAAI_hBzUP88O1ZlK_4NSAiZhVeqofn5BhhgTtHUqqby1R47Rfzr-R4qUD9Jv_YtdZ704lK3lTHliV1XFmCRTd-Cs4ZHZADmSyTz1qWb1-o8PxwWFxrLP9gDg2ypE4V9H6Nw8UywG3O2OM12PxzCREUw0pocG1QDKm1y-1-gqwKDFx/s200/TV%20GAZETA.webp
 https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8
 
-#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS ABERTOS",REDE BRASIL
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoAk-dRCDoLXxEQWKl6GvFtijCmpXHCLkJfcjkfRsrcIaT1CKzOwIe3oTXQ1lMwWuQMKYbOmJ5i3Xq1wn9avnPzYqkgeHFDDjYTqCgtyqV7yaLocQhC0gfn_ma_Tx1G_Gf83MmjPquNvv6YRr_awPH_UZ-5J8OEB19oVlRrao5ZPXNJy4DBwPIhLZJ/s200/REDE%20BRASIL.webp" group-title="CANAIS ABERTOS",REDE BRASIL
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS ABERTOS",TV FUTURA
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPrFZ50jlQl9HyOPpweeort4xOXRT0fPUK2UnU2cYT2E1kdWx29NWIKo43FjRTQSm3GM3YiI1kRgNmlYXtUIsB58w_zenQnh_dQki0NoLXJzMFKCpQ2xmUScUZqMhjmkqk-Wqx9fssT3LGfCrdUys3ZDk11YoaMQgR4ysnglrx4HfOFx1c8R0d7vM_/s200/CANAL%20FUTURA.webp" group-title="CANAIS ABERTOS",TV FUTURA
 https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS ABERTOS",TV BRASIL
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYmhJx3RhpR1HxNxd-U3J_CfnAvbmeogAP29Yd_j9peOGU4FeH0Ev1tlUdDZMgha6nPR5ZDJaY-9GllKLkwa0S2XDotAFAfQedSx_6ksgl6KL1Vis4SJT1bBBdCaqacjG3MtT_UEuFX2MfRw6xYCpKlS7PFhu7IimnS9IK787mKYAfBAkNmR0z7g7l/s200/TV%20BRASIL.webp" group-title="CANAIS ABERTOS",TV BRASIL
 https://5c483b9d1019c.streamlock.net/8022/8022/playlist.m3u8
 
-#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS ABERTOS",TV CULTURA
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYqBxqATkd6iPgfxBQLKSXAV9rX8RpY8iflcyl_lILtFFfJak9D-32j-aM9-3VDOtD7i2qoz115XMjdLbephlHlp80qRB5VNVdRT9WGMithSVraG1DS329jUJ5WJtk2Lqp6PDHRIVfQVnvk2rAolmrKHo37hA-pKOHVWNfsGfXEvNGblSiZzjBcgic/s200/TV%20CULTURA.jpg" group-title="CANAIS ABERTOS",TV CULTURA
 https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS ABERTOS",TV CAMARA
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijfJ7KkhAE1ifQHDEl6zc336LviNhG539LOBTtV9HWOXAHt7fo79I9wUazzJNfGjYCAv05SJu7VYZBRsuY-9pVNT3leDnkS1T6J25lI2LdRQavHykbfchYX6mJIsnKgNMjOXdwzJn8cdOp51XQYUmX8nWyvF046n7CtDeSGKpIVv65i3Uaqf3LmF_1/s200/TV%20C%C3%82MARA.webp" group-title="CANAIS ABERTOS",TV CAMARA
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
 
 =====≈================================================
 
 
-#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS AGRONEGÓCIOS",TERRA VIVA
-http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://1.bp.blogspot.com/-cy9RAmDFFsM/YHHOaly3fNI/AAAAAAAAEhY/__zJnkia6aUGAnn0hZN_arXkZ5CwufoQQCLcBGAsYHQ/s0/NOVA%2BTV%2BAGROTOUR.png" group-title="CANAIS AGRONEGÓCIOS",NOVA AGROTUR
+https://video01.kshost.com.br/marcelo6682/marcelo6682/chunklist_w612440962.m3u8
 
-#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS AGRONEGÓCIOS",AGRO+
-https://evpp.mm.uol.com.br/geob_band/agromais/playlist.m3u8
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEKwQ8_xA17IeTc5Z01GABIkcLtqK4NFvxks3KRi50L_LCHr7N-VSywBxtsNxFuAPfspt6GiIyhAzZokDOcMz4myJsGCLy2L6NjAmSrQi0API4wSf2K1vLCEJxP84oxS7QEOdqrnXJDRXBoK0viEkcLfMhnQz642YnzKhqqv-9TQmibt22gZB2PNfi/s200/TV%20COOP.webp" group-title="CANAIS AGRONEGÓCIOS",TV COOP
+https://stream01-tvcoopsc.netpointcdn.com.br/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS AGRONEGÓCIOS",CANAL RURAL
-https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS AGRONEGÓCIOS",AGRO BRASIL TV
-http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://4.bp.blogspot.com/-JPAUihjtghI/XiiUPErQOzI/AAAAAAAACYw/9MNZWRapDFwiCH7A2Pk0ufNIjBzK1W7EACLcBGAsYHQ/s320/Screenshot_2020-01-22-15-25-21.png" group-title="CANAIS AGRONEGÓCIOS",AGRO BRASIL TV
+https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/chunklist_w1655824251.m3u8
+
+
+=====≈=================================================
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjG7AAYj11vPX1WqfoVk0AMe8d0jMBL0ADKQIF3cJWVVWi4SqWllidhIwQSxLQSFIoaYZESV1MG3jZlQK_iiAUcP-FgstY7I-aeW-GOAH0LnCONmPC49KptD0IYZ6aoYRtfiNCZbN5g9fH1BW6Z6B1p2YLvWqwROejuuY9a2RD1yUXT9cLEWMYGNoOD/s200/TOON%20GOGGLES%20BRASIL.webpB75yCNV0KcAIE7k7_CUbZOH24H1yGMCASMQ0VhbGgcUtVZCYLIFO_0JLWG90_N4kyJ5ZjE6-X4O0wVKdkItd6AX7ktaZM0u2dCro9=s200" group-title="CANAIS INFANTIS",TOONS GOGGLES
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
+
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEizLhOyd0VXCtqylncWxnmHdWiioUjsV9tBfDWFO1LO5jHYbt6Ff1vMMSY1lm8yYPtcLEGOVwECGa9PXpYpZb_B75yCNV0KcAIE7k7_CUbZOH24H1yGMCASMQ0VhbGgcUtVZCYLIFO_0JLWG90_N4kyJ5ZjE6-X4O0wVKdkItd6AX7ktaZM0u2dCro9=s200" group-title="CANAIS INFANTIS",GOSPEL CARTOON 
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6ACN5Y64vyUT38bQRkt6mio-7laqqcULY-Q&usqp=CAU" group-title="CANAIS INFANTIS",CARTOONITO
+https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.3u8
+
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3xa6aAFZT14eniVTriE7XTOoEg47uvdQd7w&usqp=CAU" group-title="CANAIS INFANTIS", CARTOON NETWORK
+https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist.m3u8
+
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3G7cmj2y9GxIDY6jnaMJCSERDVUHXsVLveA&usqp=CAU" group-title="CANAIS INFANTIS", NICK JUNIOR
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvO0TeS567UkG7g9QGBtIxLFgKgRCNnfnH49hx1wFd1Vz3hTmTEuocVasXWk7q0Oamhnxz9AQ5Sn2vFHjrZ8UzIuH8QC4v4p4U6y8zdcG1Ww1zBnZ4eAlNRTxVJQ_AUYm5x6DdHhANeOVQwiwTlPV2P4KVo2-DNJAMjL2RixYq9hqVOi542KqYO_W7/s200/ANIME%20TV.webp" group-title="CANAIS INFANTIS",ANIME TV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFK_gHXebMH7KVbmACTm5QawHrtwBHF4ezxYMD14PKjh1eCszzOcxBTGBkpHCHZMFIYY-83fEv4Pd6MfkikdjKO_k6I8HjFlcDZlocKPI4WVTa9eL8qFjuL3dWuuRO4gfFegMYmg6NN2NoVp_j7zsKBIVqJgrags2MbaV5F95hTAqV4wAWLVy114Id/s200/RETR%C3%94%20CARTOON.webp" group-title="CANAIS INFANTIS", RETRO CARTOON
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
+
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://www.olhosnatv.com.br/2022/03/tv-kidmais.html?m=1" group-title="CANAIS INFANTIS", KIDS
+https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihkqYonCv00zBRcpHyxlpDi4lazk0T_XAJ-lyPedwKQpBC3A-CsbeHwj8IQYESUm8brrMaIzw90c-gkk9sq5d4quEqneEv9TypGPl63uQ344RO2fFURRzjzTNhxUEoiN27sZKOlI9VdXQAdSL5JWvEESvHuJBq_HzddRepRc6YH1M1EYiGDtttyoBW/s200/XTREME%20TV.jpg" group-title="CANAIS INFANTIS",XTREME TV
+https://stmv1.srvif.com/xtremetv/xtremetv/playlist.m3u8
 
 
 =====≈=================================================
 
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://4.bp.blogspot.com/-s9EMrze8XCY/XRkWxEOsCPI/AAAAAAAABQo/YDZdT4RPqsQPyJ9jjfZD6bpHqJjyr-lKQCPcBGAYYCw/s320/Screenshot_2019-06-30-16-46-06.pngVPpJFXBdm_SaKToqtD3FJa-HU9SzAUFqiH8Cv_1H3AW5V2lb95NWnbt1PU9Un8IofgMJYNpcZ0U40kS83xtFEdCRodIwDpeN25N3=s200Pl63uQ344RO2fFURRzjzTNhxUEoiN27sZKOlI9VdXQAdSL5JWvEESvHuJBq_HzddRepRc6YH1M1EYiGDtttyoBW/s200/XTREME%20TV.jpg" group-title="CANAIS RELIGIOSOS",IGREJA MUNDIAL
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://4.bp.blogspot.com/-s9EMrze8XCY/XRkWxEOsCPhttps://3.bp.blogspot.com/-ie-fVc_xBdo/XRvl8tRqvWI/AAAAAAAABRg/CixA7vs06QIrCtXKPy4hq6g98Y9uyiR-ACLcBGAs/s320/Screenshot_2019-07-02-12-49-26.png" group-title="CANAIS RELIGIOSOS",TV UNIVERSAL
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://4.bp.blogspot.com/-OSle1HHVGkQ/XU37Y7_OFGI/AAAAAAAABak/GOwP-ahqQYcmD5AiBxaxMWhRTlyRXyg2QCPcBGAYYCw/s320/Screenshot_2019-08-09-19-59-48.pngtXKPy4hq6g98Y9uyiR-ACLcBGAs/s320/Screenshot_2019-07-02-12-49-26.png" group-title="CANAIS RELIGIOSOS",TV PAI ETERNO 
+https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist_w609427385.m3u8
+
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://2.bp.blogspot.com/-rH3AzwlW_vU/XQ0N5uA6FkI/AAAAAAAABK0/wdHEyUAsK6Ao18nAf7lMe283skT1aFjhwCPcBGAYYCw/s320/Screenshot_2019-06-21-13-52-20.png8.pngtXKPy4hq6g98Y9uyiR-ACLcBGAs/s320/Screenshot_2019-07-02-12-49-26.png" group-title="CANAIS RELIGIOSOS",TV CANÇÃO NOVA
+httphttps://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8s://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova/playlist.m3u8
+
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiCSsOsHGyxszHE_yIrWwVcsFD390HDl5JnAq5AdmhXVLmlTK-KPEoH5HBzHbckYL0UNieE-zYcla2ybL9BTnvMVPpJFXBdm_SaKToqtD3FJa-HU9SzAUFqiH8Cv_1H3AW5V2lb95NWnbt1PU9Un8IofgMJYNpcZ0U40kS83xtFEdCRodIwDpeN25N3=s200Pl63uQ344RO2fFURRzjzTNhxUEoiN27sZKOlI9VdXQAdSL5JWvEESvHuJBq_HzddRepRc6YH1M1EYiGDtttyoBW/s200/XTREME%20TV.jpg" group-title="CANAIS RELIGIOSOS",REDE GOSPEL 
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://1.bp.blogspot.com/-baJysP8XY-o/XcSRPD8gcoI/AAAAAAAACOw/MTe8L0WbQZ8tz9bVFaPu1id1dWHzyuGpgCLcBGAsYHQ/s320/Screenshot_2019-11-07-18-45-11.pngD3FJa-HU9SzAUFqiH8Cv_1H3AW5V2lb95NWnbt1PU9Un8IofgMJYNpcZ0U40kS83xtFEdCRodIwDpeN25N3=s200Pl63uQ344RO2fFURRzjzTNhxUEoiN27sZKOlI9VdXQAdSL5JWvEESvHuJBq_HzddRepRc6YH1M1EYiGDtttyoBW/s200/XTREME%20TV.jpg" group-title="CANAIS RELIGIOSOS",TV JESUS CRISTO
+https://anrwfbifua.zoeweb.tv/apalavra/apalavra/playlist.m3u8
+
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://4.bp.blogspot.com/-yVHrZ_3z5EM/XQ0N2n2tivI/AAAAAAAABK4/kRHjokzReKQKI8USh2gY7r1tJvWvYyhfwCPcBGAYYCw/s320/Screenshot_2019-06-21-14-00-01.png" group-title="CANAIS RELIGIOSOS",TV APARECIDA
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+
+=====≈=================================================
+
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGhMBh-0Oihm0A_SlXqBJC4sodwRg4KGM8OIwOUZIBfrBfYKsdfynP4gn071IjtJiNFHJlHgjBqB6UGAsZjuLNIZ2MSgBHejrKef7dXARN6yNfxDf3UFnlVsGZqcEtDpD5dBKFGQfnu8dm4ahH3JWd0voC6r71DJpYKKguUnH3pwOEo003dA-mFUqe/s200/CHANNEL%201.webp19-11-07-18-45-11.pngD3FJa-HU9SzAUFqiH8Cv_1H3AW5V2lb95NWnbt1PU9Un8IofgMJYNpcZ0U40kS83xtFEdCRodIwDpeN25N3=s200Pl63uQ344RO2fFURRzjzTNhxUEoiN27sZKOlI9VdXQAdSL5JWvEESvHuJBq_HzddRepRc6YH1M1EYiGDtttyoBW/s200/XTREME%20TV.jpg" group-title="CANAIS FILMES E SÉRIES",TV CHANNEL 1
+https://stmv1.srvif.com/channel1/channel1/chunklist_w285237757.m3u8
+
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhk4tetRfTv9ZV7GW5zII9QwH8eP-vASIKazMw_N3h9IcaZQRmHckjNTaUsvZEIAjJM2znTQZBo1CjnpW0qcGCnSRzS-PJvjQX_ywSPXUaQfSZLpeouOKGWQP2ne5WOmLO8TzXoHsAsl9dqeGs1iyTuZmw4I-osJ0JzGnIAEhxV6dRKBnzf-o3A-wCL/s200/RUNTIME.webpodIwDpeN25N3=s200Pl63uQ344RO2fFURRzjzTNhxUEoiN27sZKOlI9VdXQAdSL5JWvEESvHuJBq_HzddRepRc6YH1M1EYiGDtttyoBW/s200/XTREME%20TV.jpg" group-title="CANAIS FILMES E SÉRIES",RUN TIME
+https://stream.ads.ottera.tv/cl/230128cfaqdaqvj4k3vgk3dm7g/960x540_1927200_1_f.m3u8?i=475_4416
+
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhk4tetRfTv9ZV7GW5zII9QwH8eP-vASIKazMw_N3h9IcaZQRmHckjNTaUsvZEIAjJM2znTQZBo1CjnpW0qcGCnSRzS-PJvjQX_ywSPXUaQfSZLpeouOKGWQP2ne5WOmLO8TzXoHsAsl9dqeGs1iyTuZmw4I-osJ0JzGnIAEhxV6dRKBnzf-o3A-wCL/s200/RUNTIME.webpodIwDpeN25N3=s200Pl63uQ344RO2fFURRzjzTNhxUEoiN27sZKOlI9VdXQAdSL5JWvEESvHuJBq_HzddRepRc6YH1M1EYiGDtttyoBW/s200/XTREME%20TV.jpg" group-title="CANAIS FILMES E SÉRIES",RUN TIME AÇÃO 
+https://stream.ads.ottera.tv/cl/230128cfaqg0cmlf6hn18l6lqg/960x540_1927200_1_f.m3u8?i=475_2552
+
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhk4tetRfTv9ZV7GW5zII9QwH8eP-vASIKazMw_N3h9IcaZQRmHckjNTaUsvZEIAjJM2znTQZBo1CjnpW0qcGCnSRzS-PJvjQX_ywSPXUaQfSZLpeouOKGWQP2ne5WOmLO8TzXoHsAsl9dqeGs1iyTuZmw4I-osJ0JzGnIAEhxV6dRKBnzf-o3A-wCL/s200/RUNTIME.webpodIwDpeN25N3=s200Pl63uQ344RO2fFURRzjzTNhxUEoiN27sZKOlI9VdXQAdSL5JWvEESvHuJBq_HzddRepRc6YH1M1EYiGDtttyoBW/s200/XTREME%20TV.jpg" group-title="CANAIS FILMES E SÉRIES",RUN TIME COMÉDIA 
+https://stream.ads.ottera.tv/cl/230128cfaqgfs5b2jf2gornlag/960x540_1927200_1_f.m3u8?i=475_2553
+
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhk4tetRfTv9ZV7GW5zII9QwH8eP-vASIKazMw_N3h9IcaZQRmHckjNTaUsvZEIAjJM2znTQZBo1CjnpW0qcGCnSRzS-PJvjQX_ywSPXUaQfSZLpeouOKGWQP2ne5WOmLO8TzXoHsAsl9dqeGs1iyTuZmw4I-osJ0JzGnIAEhxV6dRKBnzf-o3A-wCL/s200/RUNTIME.webpodIwDpeN25N3=s200Pl63uQ344RO2fFURRzjzTNhxUEoiN27sZKOlI9VdXQAdSL5JWvEESvHuJBq_HzddRepRc6YH1M1EYiGDtttyoBW/s200/XTREME%20TV.jpg" group-title="CANAIS FILMES E SÉRIES",RUN TIME CRIME 
+https://stream.ads.ottera.tv/cl/230407cgnnb2eqvijh1a070ad0/960x540_1927200_1_f.m3u8?i=475_4864
+
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhk4tetRfTv9ZV7GW5zII9QwH8eP-vASIKazMw_N3h9IcaZQRmHckjNTaUsvZEIAjJM2znTQZBo1CjnpW0qcGCnSRzS-PJvjQX_ywSPXUaQfSZLpeouOKGWQP2ne5WOmLO8TzXoHsAsl9dqeGs1iyTuZmw4I-osJ0JzGnIAEhxV6dRKBnzf-o3A-wCL/s200/RUNTIME.webpodIwDpeN25N3=s200Pl63uQ344RO2fFURRzjzTNhxUEoiN27sZKOlI9VdXQAdSL5JWvEESvHuJBq_HzddRepRc6YH1M1EYiGDtttyoBW/s200/XTREME%20TV.jpg" group-title="CANAIS FILMES E SÉRIES",RUN TIME ESPANTO
+https://stream.ads.ottera.tv/cl/230407cgnncrrtj8dghtsp9s30/960x540_1927200_1_f.m3u8?i=475_4865
+
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhk4tetRfTv9ZV7GW5zII9QwH8eP-vASIKazMw_N3h9IcaZQRmHckjNTaUsvZEIAjJM2znTQZBo1CjnpW0qcGCnSRzS-PJvjQX_ywSPXUaQfSZLpeouOKGWQP2ne5WOmLO8TzXoHsAsl9dqeGs1iyTuZmw4I-osJ0JzGnIAEhxV6dRKBnzf-o3A-wCL/s200/RUNTIME.webpodIwDpeN25N3=s200Pl63uQ344RO2fFURRzjzTNhxUEoiN27sZKOlI9VdXQAdSL5JWvEESvHuJBq_HzddRepRc6YH1M1EYiGDtttyoBW/s200/XTREME%20TV.jpg" group-title="CANAIS FILMES E SÉRIES",RUN TIME ROMANCE
+https://stream.ads.ottera.tv/cl/230407cgnnbo86lgde0l93o5ig/960x540_1927200_1_f.m3u8?i=475_4866
+
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://1.bp.blogspot.com/-xictB0vDaww/YTejfmgzcBI/AAAAAAAAFdU/W9RuQ8GHzEgVmnDwrrUDeu23sW2nIlWggCLcBGAsYHQ/s200/TV%2BJ.SID.webp" group-title="CANAIS FILMES E SÉRIES", TV JSID
+https://video05.logicahost.com.br/tvjsid/tvjsid/chunklist_w1351534938.m3u8
+
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://4.bp.blogspot.com/-AhaAsc9h4uI/XsbEt8PTbpI/AAAAAAAAC1M/j8wUicUdhBsscNx7qRPmXY_RjklCPSWRwCLcBGAsYHQ/s320/Screenshot_2020-05-21-15-10-07.png" group-title="CANAIS MUSICAS",GOSPEL MUSIC
+https://stmv1.srvif.com/gmusic/gmusic/chunklist_w669358554.m3u8
+
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://2.bp.blogspot.com/-_e_57qMs5hU/XRD-o6ktfjI/AAAAAAAABM8/54bGOikS6SMavTF7LEefte3qHaZbG8tCACLcBGAs/s320/Screenshot_2019-06-24-13-39-35.pngbp" group-title="CANAIS MUSICAS",MUSIC TOP
+https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1679103036.m3u8
+
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizRSNEYwApjB5bFaL9E1X5APuXV1_qXhP8Hl3vNPEifr7EIlplZq1a9dDn-AZWdRMPHoOVUDi_xVvkMYJMIX-6n6JZfUCiTRQ5nJ0O7vrdSpEQan0QjSZyAKdLMXmuycOmi0pQFOK534emVEdrh2KnnC_1YX4kDMGif9BPhY0L1R7NgOvYM5h0cGfs/s200/TOP%20MIX%20TV.webp24-13-39-35.pngbp" group-title="CANAIS MUSICAS",TOP MIX TV
+https://video03.logicahost.com.br/topmixtv/topmixtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtHJY6QKv2coIw6ae3NGDq9vTVbbkTYtWI6_EJDoy5rZUe5_WY3KdtjEUbQ9kmrcHZMO7FPe_nca6UwZDK9B-vZ8znfVDEtXznX-D10E2kMWUMeNC88lskPAB3hYR2fyKAPiUv2QKnyBJYVyQP49uCen8f7K-OS_eg_oNRXMyFGuAP5b3kqagjfXC8/s200/RECORD%20NEWS.jpg" group-title="CANAIS NOTÍCIAS,RECOR NEWS 
+https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
+
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://4.bp.blogspot.com/-HJ-CWY-Xsbk/XtgQ16LdQFI/AAAAAAAAC5g/S311jLxZetAFO8gYsEjszujAaM2YyXATwCLcBGAsYHQ/s320/Screenshot_2020-06-03-18-02-52.png" group-title="CANAIS NOTÍCIAS,EURO NEWS
+https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://4.bp.blogspot.com/-HJ-CWY-Xsbk/XtgQ16LdQFI/AAAAAAAAC5g/S311jLxZetAFO8gYsEjszujAaM2YyXATwCLcBGAsYHQ/s320/Screenshot_2020-06-03-18-02-52.png" group-title="CANAIS DOCUMENTÁRIOS,DOCUMENTÁRIO
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ef1a8cec6be00072a7ac9/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 
-#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS INFANTIS",GOSPEL CARTOON 
-https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7INvA-D3Is-6Pfv0VC_26P1he_2QZZU1N9g&usqp=CAU" group-title="CANAIS DOCUMENTÁRIOS,LOVE NATURE
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
-#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS INFANTIS",CARTOONITO
-https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7INvA-D3Is-6Pfv0VC_26P1he_2QZZU1N9g&usqp=CAU" group-title="CANAIS DOCUMENTÁRIOS,MISTERIOS
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62b5c5a064163d0007b2efe6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS INFANTIS", CARTOON NETWORK
-https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist.m3u8
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7INvA-D3Is-6Pfv0VC_26P1he_2QZZU1N9g&usqp=CAU" group-title="CANAIS DOCUMENTÁRIOS,ASSOMBRAÇÕES
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620d1512c7986a0007220213/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
-#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS INFANTIS", NICK JUNIOR
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/7a/c2/15/7ac215a5-57ea-36a0-f991-0659bdbbe9a5/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png" group-title="CINE PLUTO TV,AÇÃO
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
-#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS INFANTIS",ANIME TV
-https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/7a/c2/15/7ac215a5-57ea-36a0-f991-0659bdbbe9a5/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png" group-title="CINE PLUTO TV,FICÇAO
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa15ad6367e170007cdd098/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
-#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS INFANTIS", RETRO CARTOON
-https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/7a/c2/15/7ac215a5-57ea-36a0-f991-0659bdbbe9a5/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png" group-title="CINE PLUTO TV,TERROR
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS INFANTIS", KIDS
-https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/7a/c2/15/7ac215a5-57ea-36a0-f991-0659bdbbe9a5/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png" group-title="CINE PLUTO TV,ADRENALINA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
-#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS INFANTIS",XTREME TV
-https://stmv1.srvif.com/xtremetv/xtremetv/playlist.m3u8
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/7a/c2/15/7ac215a5-57ea-36a0-f991-0659bdbbe9a5/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png" group-title="CINE PLUTO TV,COMÉDIA 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545ed3dab4380007582f7c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/7a/c2/15/7ac215a5-57ea-36a0-f991-0659bdbbe9a5/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png" group-title="CINE PLUTO TV,DRAMA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/7a/c2/15/7ac215a5-57ea-36a0-f991-0659bdbbe9a5/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png" group-title="CINE PLUTO TV,FAMÍLIA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/7a/c2/15/7ac215a5-57ea-36a0-f991-0659bdbbe9a5/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png" group-title="CINE PLUTO TV,SUCESSOS 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/7a/c2/15/7ac215a5-57ea-36a0-f991-0659bdbbe9a5/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png" group-title="CINE PLUTO TV,SUSPENÇE
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/7a/c2/15/7ac215a5-57ea-36a0-f991-0659bdbbe9a5/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png" group-title="CINE PLUTO TV,NACIONAIS
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
